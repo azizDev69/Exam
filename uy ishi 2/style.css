@@ -1,0 +1,26 @@
+h1 {
+    background-color: aqua;
+    text-align: center;
+border-radius: 50px;
+}
+h1 span {
+    color: yellow;
+    background-color: black;
+    border-radius: 5px;
+    border: 2px solid red;
+}
+.images {
+    background-color: black;
+padding: 10px;
+border-radius: 10px 40px;
+
+}
+.images img {
+    width: 444px;
+}
+.images p {
+    background-color: white;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
